@@ -1,4 +1,4 @@
-<!doctype html>
+ <!doctype html>
 <html lang="fr">
   <head>
     <!-- Required meta tags -->
@@ -45,8 +45,8 @@
                     <input class="form-control mr-sm-2" type="search" placeholder="Search" aria-label="Search">
                     <button class="btn btn-outline-success my-2 my-sm-0" type="submit">Search</button>
                </form>
-               </div>
-        </nav>
+               </div> 
+        </nav> 
     <h1>Hello, world!</h1>
    
     <!-- Optional JavaScript -->
